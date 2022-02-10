@@ -1,6 +1,6 @@
 {
-  "name": "bubbletang88/create-vite",
-  "version": "0.0.2",
+  "name": "bubbletang88-create-vite",
+  "version": "0.0.3",
   "license": "MIT",
   "author": "Evan You",
   "bin": {

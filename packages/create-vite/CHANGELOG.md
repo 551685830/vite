@@ -1,3 +1,7 @@
+## [0.0.3](https://github.com/vitejs/vite/compare/create-vite@2.8.1-beta.0...create-vite@0.0.3) (2022-02-10)
+
+
+
 # [](https://github.com/551685830/vite/compare/create-vite@2.8.1-beta.0...create-vite@) (2022-02-10)
 
 
