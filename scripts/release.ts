@@ -151,7 +151,7 @@ function updateVersion(version: string): void {
 
 async function publishPackage(
   version: string,
-  runIfNotDry: RunFn | DryRunFn
+  yar: RunFn | DryRunFn
 ): Promise<void> {
   const publicArgs = [
     'publish',
